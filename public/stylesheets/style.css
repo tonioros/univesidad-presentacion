@@ -1,5 +1,4 @@
 .nav {
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#848484+0,636363+26,636363+54,919191+80,8e8e8e+100 */
     background: #848484; /* Old browsers */
     background: -moz-linear-gradient(left, #848484 0%, #636363 26%, #636363 54%, #919191 80%, #8e8e8e 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(left, #848484 0%, #636363 26%, #636363 54%, #919191 80%, #8e8e8e 100%); /* Chrome10-25,Safari5.1-6 */
@@ -41,7 +40,6 @@ body {
 }
 
 #link2:hover, #link2:active, #link2:focus {
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff4fb5+2,cb5bff+36,9823ff+76,5d9ed3+100 */
     background: #ff4fb5; /* Old browsers */
     background: -moz-linear-gradient(left, #ff4fb5 2%, #cb5bff 36%, #9823ff 76%, #5d9ed3 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(left, #ff4fb5 2%,#cb5bff 36%,#9823ff 76%,#5d9ed3 100%); /* Chrome10-25,Safari5.1-6 */
