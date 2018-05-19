@@ -1,0 +1,51 @@
+.nav {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#848484+0,636363+26,636363+54,919191+80,8e8e8e+100 */
+    background: #848484; /* Old browsers */
+    background: -moz-linear-gradient(left, #848484 0%, #636363 26%, #636363 54%, #919191 80%, #8e8e8e 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #848484 0%, #636363 26%, #636363 54%, #919191 80%, #8e8e8e 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #848484 0%, #636363 26%, #636363 54%, #919191 80%, #8e8e8e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.nav > a {
+    color: white;
+}
+
+.nav > a:active {
+    color: #0032ff;
+}
+
+body {
+    background: rgba(23, 23, 23, 0.92);
+    color: #fff;
+}
+
+.card {
+    display: inline-block;
+    background: rgba(85, 85, 85, 0.92);
+    -webkit-box-shadow: 4px 4px 77px 1px #4b4b4b;
+    -moz-box-shadow: 4px 4px 77px 1px #4b4b4b;
+    box-shadow: 4px 4px 77px 1px #4b4b4b;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#47c8ff', endColorstr='#3b90d6', GradientType=1); /* IE6-9 */
+}
+
+#link1, #link2, #link3, #link4 {
+    transition: 0.1s;
+}
+
+#link1:hover, #link1:active, #link1:focus {
+    background: #47c8ff; /* Old browsers */
+    background: -moz-linear-gradient(left, #47c8ff 0%, #44ade2 56%, #44ade2 76%, #3b90d6 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #47c8ff 0%, #44ade2 56%, #44ade2 76%, #3b90d6 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #47c8ff 0%, #44ade2 56%, #44ade2 76%, #3b90d6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    border-radius: 1px;
+}
+
+#link2:hover, #link2:active, #link2:focus {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff4fb5+2,cb5bff+36,9823ff+76,5d9ed3+100 */
+    background: #ff4fb5; /* Old browsers */
+    background: -moz-linear-gradient(left, #ff4fb5 2%, #cb5bff 36%, #9823ff 76%, #5d9ed3 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #ff4fb5 2%,#cb5bff 36%,#9823ff 76%,#5d9ed3 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #ff4fb5 2%,#cb5bff 36%,#9823ff 76%,#5d9ed3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff4fb5', endColorstr='#5d9ed3',GradientType=1 ); /* IE6-9 */
+    border-radius: 1px;
+}
