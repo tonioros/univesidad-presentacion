@@ -10,7 +10,11 @@ router.get('/academicos', function(req, res, next) {
 });
 
 router.get('/general', function(req, res, next) {
-  res.render('knowledge', { title: 'Conocimiento academico' });
+  res.render('knowledge', { title: 'Conocimiento genera' });
+});
+
+router.get('/hobbies', function(req, res, next) {
+  res.render('hobbies', { title: 'Hobbies' });
 });
 
 module.exports = router;
